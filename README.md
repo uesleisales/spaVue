@@ -1,4 +1,4 @@
-# expenses
+# Vue.js + Firebase
 
 ## Project setup
 ```
